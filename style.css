@@ -1,1 +1,35 @@
-text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald:wght@500&family=Roboto:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald:wght@500&family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Noto+Serif:ital@1&family=Oswald:wght@500&family=Playfair+Display&display=swap');
+
+
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+#nav {
+    background-color: rgb(25, 114, 120);
+    font-family: 'Playfair Display', serif;
+}
+.navbar-brand {
+    color: rgb(237, 221, 212);
+}
+.nav-link {
+    color: rgb(196, 69, 54);
+}
+h1 {
+    color: rgb(119, 46, 37);
+}
+.adaphoto {
+    width: 20%;
+}
+p {
+    font-family: 'Noto Serif', serif;
+    color:rgb(119, 46, 37);
+}
+.col-4 {
+    color: black;
+}
+
+
